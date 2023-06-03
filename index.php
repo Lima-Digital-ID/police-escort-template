@@ -60,6 +60,9 @@
                             <li>
                                 <a class="nav-link scrollto" href="#gallery">Gallery</a>
                             </li>
+                            <li>
+                                <a class="nav-link scrollto" href="#blog">Blog</a>
+                            </li>
                             <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
                 <ul>
                   <li><a href="#">Drop Down 1</a></li>
@@ -98,7 +101,9 @@
             <div class="row justify-content-center">
                 <div class="col-xl-8">
                     <h1>Police Escort</h1>
-                    <h2 style="text-transform:capitalize">we will take you to your destination safely</h2>
+                    <h2 style="text-transform: capitalize">
+                        we will take you to your destination safely
+                    </h2>
                     <a href="https://www.youtube.com/watch?v=glcu-QMvZG0&pp=ygUncG9saWNlIGVzY29ydCBqYXZhdm9sY2FubyB0b3VyIG9wZXJhdG9y" class="glightbox play-btn mb-4"></a>
                 </div>
             </div>
@@ -312,6 +317,63 @@
         </section>
         <!-- End gallery Section -->
 
+        <!-- ======= Blog Section ======= -->
+        <section id="blog" class="blog">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Blog</h2>
+                    <p>
+                        Magnam dolores commodi suscipit. Necessitatibus eius consequatur
+                        ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
+                        quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
+                        Quia fugiat sit in iste officiis commodi quidem hic quas.
+                    </p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 mt-3">
+                        <div class="card">
+                            <img src="assets/img/police/image_1.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h5 class="card-title">Title Content</h5>
+                                <p class="card-text">
+                                    Some quick example text to build on the card title and make
+                                    up the bulk of the card's content.
+                                </p>
+                                <a href="#" class="btn btn-primary">More ...</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-3">
+                        <div class="card">
+                            <img src="assets/img/police/image_1.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h5 class="card-title">Title Content</h5>
+                                <p class="card-text">
+                                    Some quick example text to build on the card title and make
+                                    up the bulk of the card's content.
+                                </p>
+                                <a href="#" class="btn btn-primary">More ...</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-3">
+                        <div class="card">
+                            <img src="assets/img/police/image_1.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h5 class="card-title">Title Content</h5>
+                                <p class="card-text">
+                                    Some quick example text to build on the card title and make
+                                    up the bulk of the card's content.
+                                </p>
+                                <a href="#" class="btn btn-primary">More ...</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Blog Section -->
+
         <!-- ======= Faq Section ======= -->
         <!-- <section id="faq" class="faq">
         <div class="container-fluid">
@@ -432,7 +494,7 @@
             </div>
 
             <div>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15807.147727885476!2d113.819917!3d-7.9173117!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6dcd6a0fadf05%3A0x491466c55a1dfd2f!2sSATLANTAS%20POLRES%20Bondowoso!5e0!3m2!1sid!2sid!4v1685780639449!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15807.147727885476!2d113.819917!3d-7.9173117!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6dcd6a0fadf05%3A0x491466c55a1dfd2f!2sSATLANTAS%20POLRES%20Bondowoso!5e0!3m2!1sid!2sid!4v1685780639449!5m2!1sid!2sid" width="100%" height="450" style="border: 0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
 
             <div class="container">
@@ -442,7 +504,10 @@
                             <div class="address">
                                 <i class="ri-map-pin-line"></i>
                                 <h4>Location:</h4>
-                                <p>Jl. Ahmad Yani No.37, Lumbung, Badean, Kec. Bondowoso, Kabupaten Bondowoso, Jawa Timur 68215</p>
+                                <p>
+                                    Jl. Ahmad Yani No.37, Lumbung, Badean, Kec. Bondowoso,
+                                    Kabupaten Bondowoso, Jawa Timur 68215
+                                </p>
                             </div>
 
                             <div class="email">
