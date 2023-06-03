@@ -98,7 +98,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-8">
                     <h1>Police Escort</h1>
-                    <h2>We are team of designers making websites with Bootstrap</h2>
+                    <h2 style="text-transform:capitalize">we will take you to your destination safely</h2>
                     <a href="https://www.youtube.com/watch?v=glcu-QMvZG0&pp=ygUncG9saWNlIGVzY29ydCBqYXZhdm9sY2FubyB0b3VyIG9wZXJhdG9y" class="glightbox play-btn mb-4"></a>
                 </div>
             </div>
