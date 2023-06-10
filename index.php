@@ -60,9 +60,9 @@
                             <li>
                                 <a class="nav-link scrollto" href="#gallery">Gallery</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a class="nav-link scrollto" href="#blog">Blog</a>
-                            </li>
+                            </li> -->
                             <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
                 <ul>
                   <li><a href="#">Drop Down 1</a></li>
@@ -88,7 +88,7 @@
                     </nav>
                     <!-- .navbar -->
 
-                    <!-- <a href="#about" class="get-started-btn scrollto">Get Started</a> -->
+                    <a href="#about" class="get-started-btn scrollto">Get Started</a>
                 </div>
             </div>
         </div>
@@ -318,7 +318,7 @@
         <!-- End gallery Section -->
 
         <!-- ======= Blog Section ======= -->
-        <section id="blog" class="blog">
+        <!-- <section id="blog" class="blog">
             <div class="container">
                 <div class="section-title">
                     <h2>Blog</h2>
@@ -371,7 +371,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- End Blog Section -->
 
         <!-- ======= Faq Section ======= -->
